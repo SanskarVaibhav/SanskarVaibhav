@@ -45,8 +45,4 @@ I work across both front-end and back-end, and I'm deeply interested in **AI/ML*
 [![](https://visitcount.itsvg.in/api?id=SanskarVaibhav&icon=10&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/SanskarVaibhav/SanskarVaibhav/output/snake.svg" alt="Snake animation" />
-
-###
