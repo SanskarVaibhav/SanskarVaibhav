@@ -2,7 +2,7 @@
 <h3 align="center">AI & Backend Developer focused on Agentic AI, Full-Stack Applications, and Scalable Systems </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+Developer;AI%2FML+Enthusiast;Analytical+Problem+Solver;Passionate+Learner+and+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Backend+Developer;Building+Agentic+AI+%26+Full+Stack+Applications;Python+%7C+Java+%7C+TypeScript+Developer;Exploring+Generative+AI+%26+Scalable+Systems;Backend+Engineering+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
