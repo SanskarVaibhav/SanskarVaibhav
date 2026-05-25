@@ -76,14 +76,13 @@ AI & Backend Developer with hands-on experience in building Agentic AI systems, 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=My+GitHub+Journey;Open+Source+Contributor;Lifelong+Learner+%26+Builder" alt="GitHub Stats Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Agentic+AI+%7C+Backend+%7C+Full+Stack;Exploring+Scalable+Systems+%26+Cloud;Turning+Ideas+Into+Real-World+Solutions;Continuous+Learning+%7C+Modern+Development" alt="GitHub Stats Header" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanskarVaibhav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SanskarVaibhav&theme=tokyonight&hide_border=false" width="400" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanskarVaibhav&theme=tokyonight&hide_border=false&layout=compact" width="400" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanskarVaibhav&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="60%" alt="Animated Snake"/>
