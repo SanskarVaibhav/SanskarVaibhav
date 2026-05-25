@@ -26,7 +26,7 @@
 ### 💡 About Me
 
 <p align="justify">
-  I am a passionate, driven Computer Science student with a strong foundation in programming and a keen interest in leveraging Artificial Intelligence and Machine Learning to build cutting-edge solutions. I thrive on developing intelligent, scalable applications that address real-world challenges and deliver meaningful impact.
+AI & Backend Developer with hands-on experience in building Agentic AI systems, full-stack applications, and scalable backend solutions. Skilled in Python, Java, TypeScript, REST APIs, and cloud-based workflows, with a strong interest in Generative AI, automation, and intelligent system design. Passionate about developing practical technology solutions that solve real-world problems and create meaningful impact.
 </p>
 
 <br />
