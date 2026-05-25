@@ -31,20 +31,6 @@ AI & Backend Developer with hands-on experience in building Agentic AI systems, 
 
 <br />
 
-<p><b>🧠 Current Tech Stack:</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="28"/>
-  <img src="https://img.shields.io/badge/DSA-%2300599C.svg?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/SQL-%2300C4CC.svg?style=flat-square&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" height="28"/>
-</p>
-
-<br/>
-
 <p><b>📈 Areas of Focus:</b></p>
 
 <ul>
