@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Sanskar Vaibhav 👋</h1>
-<h3 align="center">Turning Code into Impactful Tech Solutions 🌍</h3>
+<h3 align="center">AI & Backend Developer focused on Agentic AI, Full-Stack Applications, and Scalable Systems </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+Developer;AI%2FML+Enthusiast;Analytical+Problem+Solver;Passionate+Learner+and+Innovator" alt="Typing SVG" />
