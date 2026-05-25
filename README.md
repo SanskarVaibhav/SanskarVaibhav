@@ -31,13 +31,16 @@ AI & Backend Developer with hands-on experience in building Agentic AI systems, 
 
 <br />
 
-<p><b>📈 Areas of Focus:</b></p>
+## 🌟 Featured Projects
 
-<ul>
-  <li>Backend Development&nbsp;🛠️</li>
-  <li>AI / ML Integration&nbsp;🤖</li>
-  <li>Designing Scalable Systems&nbsp;⚙️</li>
-</ul>
+### 🤖 Agentic-AI
+AI-powered workflow orchestration system focused on intelligent automation, agent-based execution, and scalable AI integrations using Python.
+
+### 💰 AuctionWeb
+MERN-based auction platform with secure authentication, real-time bidding workflows, and REST API integration.
+
+### 📋 Team-Task-Manager
+Collaborative productivity and task management application focused on workflow organization and modern frontend-backend integration.
 
 <br/>
 
