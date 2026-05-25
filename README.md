@@ -55,12 +55,14 @@ AI & Backend Developer with hands-on experience in building Agentic AI systems, 
 
 <br/>
 
-<p align="center"><b>📚 I believe in <i>learning by doing</i> - projects, challenges, and active collaboration drive my growth.</b></p>
+<p align="center">
+  <b>🚀 Passionate about building AI-powered applications, scalable backend systems, and real-world tech solutions through continuous learning and hands-on development.</b>
+</p>
 
 <br/>
 
 <p align="center">
-  <b>🤝 Open to collaborating on innovative projects. Let's connect and build something impactful together!</b>
+  <b>🤝 Open to collaborating on innovative AI, backend, and full-stack projects that create meaningful impact.</b>
 </p>
 
 ---
